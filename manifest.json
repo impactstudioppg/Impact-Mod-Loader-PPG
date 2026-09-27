@@ -1,6 +1,6 @@
 {
   "Issuer": "Jayraiya",
-  "IssuedUtc": "2026-09-27T12:41:01.5317291Z",
+  "IssuedUtc": "2026-09-27T12:45:06.9572465Z",
   "Entries": [
     {
       "Id": "jayraiya/night time playground",
@@ -118,17 +118,7 @@
         "thumb.png": "d23fae4237c4463d4a8971552c501fd87c212f02cc0fb4b3748f60ad82a3414c",
         "UnityExplorer.Standalone.Mono.dll": "4adc2b5b2a70b8a754d99be442221f603f0b4661d2c63c7d43988ceca0440630",
         "UnityExplorerMod.dll": "2930e7e0bda32adfb40037663ccd8e86a349fcab9c9276d8c954c21ff97b5bca",
-        "UniverseLib.Mono.dll": "f9610bf2209dfe35b1ee68377cef8c20bc314bf14ca54ed8ffac8e4dd070f180",
-        "Logs/UnityExplorer 2026-09-25 013612Z.txt": "585c333a821be355e265d9a23032e5e89878e9a5c09bcdc5deb71a4b34a5fd39",
-        "Logs/UnityExplorer 2026-09-25 013913Z.txt": "fe54846b5cf8df874f3d5e68b387fe8af9232f9d84a54bcb4dd7e46779b29e5f",
-        "Logs/UnityExplorer 2026-09-25 014644Z.txt": "eb09aef3f79632de068c260b9f46d166ba864eeb1683dd7e0e230c87fed5e2a0",
-        "Logs/UnityExplorer 2026-09-25 133310Z.txt": "ae535e7e570448795e24ae7486d963b18045ddc7b3335b921a742c6b6e07daa0",
-        "Logs/UnityExplorer 2026-09-25 143602Z.txt": "804c3939d2e9f9894991c8ee87f2ca2930bbb0d23e1b2d14c3be70e97bc735ef",
-        "Logs/UnityExplorer 2026-09-25 144309Z.txt": "68c3d29cc663e8586d8d0df9a45b37ceea19462dabf7eba50514b8a34e9352e2",
-        "Logs/UnityExplorer 2026-09-25 145210Z.txt": "13089a7fc25140f6249a84c3bdd91b908dff02f9fe1dc53af50c5895410a6030",
-        "Logs/UnityExplorer 2026-09-25 153519Z.txt": "e44d89d8ab864ed6519bd8310f981bf9b184194dad045c446af2b3b5c55c3ef3",
-        "Logs/UnityExplorer 2026-09-25 160644Z.txt": "f633b4ecdeab12708d6a649670986890806b2ca48abcfd2e1e239ba3d96b9c7d",
-        "Logs/UnityExplorer 2026-09-25 162740Z.txt": "6314599b1c66e0246a46a9a4159b054593f8c1c087e2127764334cc640e250a5"
+        "UniverseLib.Mono.dll": "f9610bf2209dfe35b1ee68377cef8c20bc314bf14ca54ed8ffac8e4dd070f180"
       },
       "Capabilities": [
         "reflection",
@@ -4659,5 +4649,5 @@
       "Popularity": 1500
     }
   ],
-  "Signature": "n86WjR6oiH+3xbO+ta+AeuR77UWSq2hMPlPST41hy7QMwG87c6j+c652LxJhvwhe+fdxZl00jywXsOmQKjn9iiNnqboN5H8gN7dHB96zakLTnuFA16+RCh0Sge+DPUYecEYZ3Im4cKH8raIdsX+97dJt37vR8A13rTkTvvh1ulAklwRmbLJCk8vasMkJb3IUzVFbiN7xJ5oNaaS99eNopBAqyex/7bhhuRB8ZZkUalLHyBaUKORwOrNDpZQSwDsDI+yie3WkdCRTnG+giGApU27RJ+DicC0K1h6Bm3DU/SVtbDuQBZphxv7k1sHy38bXFBqyY5fU65mDGxLNp36cFQ=="
+  "Signature": "LBAY1eObbr6FQxcs3pMkavzSIaA1ZsweOjWqSGZ8WPKKIOAGBlRYARiZk/dmZNaMwtBTWlILJ5AOoSu91fAAe6gGOQtukQ/Ml6EjItns6wFW1crrvY7ifzPvPVpQCd50kciDz0AJuSQZo+I/PW3uFpQjeHv+5GDsJm39eR4lz2AJtrPkyGuyvluiIX321AGqscOyd22B5LTcJuunNBvRgo2PsCrcWwSJN0EhsSJYzetLKZ3r86FYFOyKW/FBxnPkiCMCwljWkj0LuJToYbibAK7OOECBdilzkHdFkw19qHfFem+2fGfjfB+fkDUl52rnquXnHRiJGiRB2Ejs0O/+WA=="
 }
