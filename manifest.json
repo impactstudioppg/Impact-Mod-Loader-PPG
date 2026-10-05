@@ -1,6 +1,6 @@
 {
   "Issuer": "Jayraiya",
-  "IssuedUtc": "2026-10-05T16:16:55.0679216Z",
+  "IssuedUtc": "2026-10-05T19:48:12.0646658Z",
   "Entries": [
     {
       "Id": "jayraiya/night time playground",
@@ -33,7 +33,8 @@
       "PublishedUtc": "2026-09-25T15:47:31.1461402Z",
       "Featured": true,
       "Popularity": 1290,
-      "SignedBy": "reviewer"
+      "SignedBy": "reviewer",
+      "Signature": "dsugbApdF6OQYqJovBb1H9RmML20sKkYze1SdBd1qwAKxAYUEoOeSxUhNoOWidr6+3LPRQJRfrmX3fpF9NgC6qQyEMT5nknsQMnTBYDEy85sLlh7ditwixOC7vEmlMfEV+5HgT0VSd3Q1cqVRo2iZuJVPo2SGRUmrLxDZeuYFqXBBnsQy188vT4bx1nfPVrkf4Zdv6KRnzc8XZyRPlY8Wp3zTpD/2v2JQHk8oIenV5YbBi4ze7+7CeunINnnbo/NdRSugnTFpQ535bZIXYRn1uZUcNztrDLTOwjzcDeaUOcTp2N4a+XJOSTvwWvGaZDCMFO98/UyPcsDhVCl5nmSUQ=="
     },
     {
       "Id": "jayraiya/reflective water",
@@ -64,7 +65,8 @@
       "PublishedUtc": "2026-09-25T15:47:30.0662759Z",
       "Featured": false,
       "Popularity": 640,
-      "SignedBy": "reviewer"
+      "SignedBy": "reviewer",
+      "Signature": "OiSFokwIo2J7GXq68L0MoxmqIRva6iXCA+FbmVS/X9AsyEmGeeH6Z2Ly2SqQUOQXaUOAf4mJa01aNs4D56Gi3U9t4C4vYJ4fzWHuKdgPxCn+e64+ougRQSP6L3Ftht52sYxMjP0la4hl7zh9Y4AnOtVjMy5/fjtALTQvCygTmZ+YuqwwxM4WPoBXzji+DO1ayW5dttM439yjJ16JMykNDNWiMxNg2WcUBnzekyeBHQ2u4emGUJFPU/yrmO0DgqGWwkccm94vtEup2PE8YZdyH9Msh3vh3tmvaQ4W24+nnqqdLrzOhLfOPTuzuGe4vo7bhwIZf6VcqSY2gsKsx4Fm8A=="
     },
     {
       "Id": "neitherfishnorcat/automatic limb repositioning",
@@ -99,7 +101,8 @@
       "PublishedUtc": "2026-09-25T15:47:29.0742684Z",
       "Featured": false,
       "Popularity": 1080,
-      "SignedBy": "reviewer"
+      "SignedBy": "reviewer",
+      "Signature": "cOU77fNb6WZmB1hixpS9RGIuh7gBytqjaBGmYeNUPAXMcTK9feFdo/jsxZSd6ctZRLZ5YwvaqMvPGuJ+yhJBCTBJaUkn86bp9dvxuVewNf9y6RpWolU9Z0Qac3pb5jSQs0MFAzAqdpzJk+KgM7tc+4MHZulC0YE4jXf0/pNr400FojQg9PiqcDlIcJwRC3Ra1ttQd0tYqV3Dfd42hBH2JzgXAmN/+hebHd6+NNW0H6Uiiy3KMe2k8XDl3T/h3trFMKq+ttVKbCWo8oCZFCMvmb++eDj8/Dcd2k6y53hYDw2qGyY2PI2G6gyekiEtpOSrDq7o0EoZqc9R3OE2XqeiBA=="
     },
     {
       "Id": "morzz1c/unityexplorer",
@@ -142,7 +145,8 @@
       "PublishedUtc": "2026-09-25T15:48:42.1758056Z",
       "Featured": false,
       "Popularity": 900,
-      "SignedBy": "reviewer"
+      "SignedBy": "reviewer",
+      "Signature": "hwD4B+VJuq0makDXh7QAzVnF9YRwwwr0bEuVSOq2tnCgKi0/zY7+K6vVImPQcex0Z/IPMJMmMZWgyHNbYs17qyiLDIJFk1K42qh2M4lEsy7/YqUiq/CAOy+Enlq6BuYXLqZjVvpvsIJOTYWG37gjIMQz3S9ZcrdExAmpoEv6ZzRflukDPRnbYIGEH4qq8ezb6XzOcx9cr5JqC/hZnIzDHPK466teO+gdLneDxN4HDhPh4gCLbtQS6vsxarxwVWLNB6cjlcFkQXZgv4Ce6b8kE9uf7aVF+0AVLk63z41R5AIEVnmOSe6GO/1kJy1KIq1kRNKlt3kGu7fPvYsQk0Wo0g=="
     },
     {
       "Id": "impact studios/dragonball impact",
@@ -4651,9 +4655,10 @@
       "PublishedUtc": "2026-09-25T15:48:41.0258254Z",
       "Featured": true,
       "Popularity": 1500,
-      "SignedBy": "reviewer"
+      "SignedBy": "reviewer",
+      "Signature": "OpnrXY+GNZ2CUYZeZSTib9/vS9fBf8Y/w6UDryQX+m1QWrpMv3xFmF/uqRQNd2FeiFHbMM8mb1bPB3j/u1UFq0Tk0ei4U5xdW/liISUucaq4PWfF1LcFT/cF26dJUuWNeJvS21b+2mjn3Tcx59FDv8YXAHYV/zmCIimAvfI7sMu/bY+NSs8tp8iT5hbsTgMfFPYj1mHEAqzp3FUHesjNoRUn+pi6Uc4j4U+OlrgZtz1oRmdWxmuawdNy51sugX0XR/NxPiigGCFPMXhzrb7bTvDlDCk7uGYF7AeYLwosBQxRgsLq/1zcSsCRKeyEPaiA5AVM85k0Su6vWF6y3F/duA=="
     }
   ],
   "Revocations": [],
-  "Signature": "lx7Qg9S9FmpMfUhkLqLzrs/bbNMdbGqeqBJc/VXDMH9gGNtO8A/uU1n1tWzIzh9FwW2j5WmghGIxlS9+jhGLGjks8qZHeKzBuDddlJfrkv9gVkJNeI36XJpca0A4lx3YOdeXPyHY6psOo+c+vUqNBAEs/NHM2A0QL7G74I/MIIVkxmL8YtqYYnd6othojJHAS0sTBcfTFo8GD8PxkTIwZuZ25o75TX+u8kVNHpd12hS0nSrRWSOFcjjk4Dh/rYL61rEHb8S4kpELoUt8c00/NhIEex4Q3ULIVoDBlW1AlELxIGet7fb95LANCIsn0nSD6+yQc5sithxDkyyM+eXL9g=="
+  "Signature": "kMYQzWviHq4Wdby/WhH5EuM4Gp/jEgsqWBkG/jz5jVPqUM8i3L0zlwjnCsOXK9sac31ZGsEFrt3F9KwyPjlefV4mSnG7ld28Lawq/eQj2cA/OOWkdbQWlk3Fb3rAS41kTlvtzA4rODqSWIGTiqTt9/FUR9l/7Hg6fIW0z4BoeXcgX9y50OFdiEC6QG99YGJ0ZlBMY9t+Ckkzi5HmD9yZhProbxCe8Ev7mS4mHB/8CEOxBqy2llTTTYlSN9PMFM+QFBydRR8zL6NGPuhtwgD4UpnISWtVpcUad1h1ohiF2X5UyStOgcjGswRbm+GunF+cgJ1GOEyCF/MSc91AxOPuqQ=="
 }
