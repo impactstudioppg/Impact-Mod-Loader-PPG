@@ -1,6 +1,6 @@
 {
   "Issuer": "Jayraiya",
-  "IssuedUtc": "2026-09-27T12:45:06.9572465Z",
+  "IssuedUtc": "2026-10-05T16:16:55.0679216Z",
   "Entries": [
     {
       "Id": "jayraiya/night time playground",
@@ -32,7 +32,8 @@
       "ThumbnailSha256": "5290655df61cd95781d3faff7aa6797ec4f8397e9304537bccf253ae5e46e07a",
       "PublishedUtc": "2026-09-25T15:47:31.1461402Z",
       "Featured": true,
-      "Popularity": 1290
+      "Popularity": 1290,
+      "SignedBy": "reviewer"
     },
     {
       "Id": "jayraiya/reflective water",
@@ -62,7 +63,8 @@
       "ThumbnailSha256": "2563f56983ab68772ff1e313378050d1b76796eb77e392af4cf0b1b5f5a99f07",
       "PublishedUtc": "2026-09-25T15:47:30.0662759Z",
       "Featured": false,
-      "Popularity": 640
+      "Popularity": 640,
+      "SignedBy": "reviewer"
     },
     {
       "Id": "neitherfishnorcat/automatic limb repositioning",
@@ -96,7 +98,8 @@
       "ThumbnailSha256": "42f740fcfc0720d6c9359afb64664f0e2dc5c4eb2bbccbdde8ff795402813b3c",
       "PublishedUtc": "2026-09-25T15:47:29.0742684Z",
       "Featured": false,
-      "Popularity": 1080
+      "Popularity": 1080,
+      "SignedBy": "reviewer"
     },
     {
       "Id": "morzz1c/unityexplorer",
@@ -138,7 +141,8 @@
       "ThumbnailSha256": "d23fae4237c4463d4a8971552c501fd87c212f02cc0fb4b3748f60ad82a3414c",
       "PublishedUtc": "2026-09-25T15:48:42.1758056Z",
       "Featured": false,
-      "Popularity": 900
+      "Popularity": 900,
+      "SignedBy": "reviewer"
     },
     {
       "Id": "impact studios/dragonball impact",
@@ -4646,8 +4650,10 @@
       "ThumbnailSha256": "9fdcbd4a1940b8c66e422d9b179a6fd0607988fb7202f653314192f934f37139",
       "PublishedUtc": "2026-09-25T15:48:41.0258254Z",
       "Featured": true,
-      "Popularity": 1500
+      "Popularity": 1500,
+      "SignedBy": "reviewer"
     }
   ],
-  "Signature": "LBAY1eObbr6FQxcs3pMkavzSIaA1ZsweOjWqSGZ8WPKKIOAGBlRYARiZk/dmZNaMwtBTWlILJ5AOoSu91fAAe6gGOQtukQ/Ml6EjItns6wFW1crrvY7ifzPvPVpQCd50kciDz0AJuSQZo+I/PW3uFpQjeHv+5GDsJm39eR4lz2AJtrPkyGuyvluiIX321AGqscOyd22B5LTcJuunNBvRgo2PsCrcWwSJN0EhsSJYzetLKZ3r86FYFOyKW/FBxnPkiCMCwljWkj0LuJToYbibAK7OOECBdilzkHdFkw19qHfFem+2fGfjfB+fkDUl52rnquXnHRiJGiRB2Ejs0O/+WA=="
+  "Revocations": [],
+  "Signature": "lx7Qg9S9FmpMfUhkLqLzrs/bbNMdbGqeqBJc/VXDMH9gGNtO8A/uU1n1tWzIzh9FwW2j5WmghGIxlS9+jhGLGjks8qZHeKzBuDddlJfrkv9gVkJNeI36XJpca0A4lx3YOdeXPyHY6psOo+c+vUqNBAEs/NHM2A0QL7G74I/MIIVkxmL8YtqYYnd6othojJHAS0sTBcfTFo8GD8PxkTIwZuZ25o75TX+u8kVNHpd12hS0nSrRWSOFcjjk4Dh/rYL61rEHb8S4kpELoUt8c00/NhIEex4Q3ULIVoDBlW1AlELxIGet7fb95LANCIsn0nSD6+yQc5sithxDkyyM+eXL9g=="
 }
